@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://nongnghieppho.vn' target='_blank'><img src='http://www.vuonxinh.com.vn/dat-nung-size-10-20-_-5dm3.html' width='500px'/><br/>viên đất nung</a>. Liên hệ 0914763258. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://supersalesstar.com/' target='_blank'><img src='https://2.bp.blogspot.com/-2CNnRbagImA/W0SQ0hxoifI/AAAAAAAAAB8/wyiuhqAKZQUQt8IvcMD45dba3kk8NftrQCLcBGAs/s1600/Capture.PNG' width='500px'/><br/>Cải thiện kỹ năng bán hàng</a>. Liên hệ 0931615606. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
